@@ -35,7 +35,7 @@ X1 in w1 vcc inv
 X2 w1 out vcc inv
 
 * Cname  n+ n- value
-*C1 out 0 2.1fF
+*C1 out 0 1.85fF
 
 * ------------------------------ *
 * transient analysis
